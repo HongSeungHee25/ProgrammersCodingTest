@@ -1,4 +1,4 @@
-package Test.Lv0.PCCE;
+package PCCE.TEST;
 
 //[PCCE 기출문제] : 1번/출력
 public class Question1_Print {

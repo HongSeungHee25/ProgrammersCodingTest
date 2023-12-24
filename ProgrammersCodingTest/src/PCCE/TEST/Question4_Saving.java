@@ -1,4 +1,4 @@
-package Test.Lv0.PCCE;
+package PCCE.TEST;
 
 import java.util.Scanner;
 
